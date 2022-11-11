@@ -1,4 +1,4 @@
-<img src="https://github.com/medivankembo/projet2_WeRateDog/blob/master/weRateDogs.jpg" alt="Logo of the project" align="right">
+<img src="https://github.com/medivankembo/projet2_WeRateDog/blob/master/weRateDogs.jpg" alt="Logo of the project" align="right" width="100" height="100">
 
 # The Movie Database Data Analysis ;
 
