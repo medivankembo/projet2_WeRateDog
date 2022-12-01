@@ -1,6 +1,6 @@
 <img src="https://github.com/medivankembo/projet2_WeRateDog/blob/master/weRateDogs.jpg" alt="Logo of the project" align="right" width="100" height="100">
 
-# The Movie Database Data Analysis ;
+# @WeRateDogs Data Analysis ;
 
 The goal of this project is to test the knowledge and skills in data preparation and analysis. 
 The dataset we will be processing, (analyzing and visualizing) is 
