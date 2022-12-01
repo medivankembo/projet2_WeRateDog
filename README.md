@@ -21,11 +21,14 @@ From your terminal, run this command in the location of your choice to clone the
 The project will be downloaded to the chosen location and will be ready to use.
 
 ## Developing
+>You must set-up the project before running it :
+>In the `config.ini` file, replace the 5 constante with your Twitter API credentials
+
 
 ### Built With
 Python, Pandas, Numpy, Matplotlib, Requests, Tweepy, Configparser
 
 ### Prerequisites
-developer twitter account credentials ;
-^Python3.7 
+- developer twitter account credentials ;
+- ^Python3.7 
 
