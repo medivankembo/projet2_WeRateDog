@@ -15,8 +15,8 @@ We have in our possession the WeRateDogs twitter archive which contains basic da
 
 From your terminal, run this command in the location of your choice to clone the project: 
 
-```git clone https://github.com/medivankembo/projet2_WeRateDog.git
-```
+`git clone https://github.com/medivankembo/projet2_WeRateDog.git`
+
 
 The project will be downloaded to the chosen location and will be ready to use.
 
